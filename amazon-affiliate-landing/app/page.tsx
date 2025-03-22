@@ -1,7 +1,6 @@
-"use client"
+import LandingPage from "@/landing-page"
 
-import LandingPage from "../landing-page"
-
-export default function SyntheticV0PageForDeployment() {
+export default function Home() {
   return <LandingPage />
 }
+

@@ -1,0 +1,22 @@
+{
+  "name": "Vogue Vibes Sisters - Deals",
+  "short_name": "VVS Deals",
+  "description": "Your one-stop destination for the best deals and offers from Amazon.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
